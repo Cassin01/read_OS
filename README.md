@@ -1,2 +1,2 @@
 # read_OS
-read UNIX V6
+UNIX V6のカーネルリーディングで学んだことを書いていきます。
